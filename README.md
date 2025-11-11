@@ -6,6 +6,8 @@ I build backend systems and web applications using **C#**, **ASP.NET Core**, and
 I currently work on **freelance development projects** for small businesses and startups across Europe. I'm mostly building internal tools, APIs, and automation systems for Austrian and European clients.  
 If you’re looking for help with a **.NET web app**, **cloud migration**, or **API integration**, feel free to reach out.
 
+Also feel free to check out my blog @ https://felixdotnet.github.io/
+
 ---
 
 ### 🧩 About Me
@@ -31,6 +33,7 @@ If you’re looking for help with a **.NET web app**, **cloud migration**, or **
 
 ### 📬 Connect
 - [LinkedIn](https://www.linkedin.com/in/felix-steiner-355823398/)
+- [Blog](https://felixdotnet.github.io/)
 
 ---
 
