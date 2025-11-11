@@ -25,7 +25,7 @@ If you’re looking for help with a **.NET web app**, **cloud migration**, or **
 ---
 
 ### 📈 GitHub Stats
-![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=fxstnr&show_icons=true&theme=default)
+![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixdotnet&show_icons=true&theme=default)
 
 ---
 
