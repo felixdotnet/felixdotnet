@@ -11,7 +11,7 @@ Also feel free to check out my blog @ https://felixdotnet.github.io/
 ---
 
 ### 🧩 About Me
-- 🧰 Freelance Developer — building custom .NET web apps and internal tools  
+- 🧰 Freelance Developer - building custom .NET web apps and internal tools  
 - 🎓 BSc in Software Engineering from TU Wien  
 - 🧠 Interested in scalable backend systems, automation, and performance  
 - ☁️ Using: `.NET 8`, `C#`, `EF Core`, `Docker`, `Azure`, `Kubernetes`
