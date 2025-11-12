@@ -19,10 +19,10 @@ Also feel free to check out my blog @ https://felixdotnet.github.io/
 ---
 
 ### 🛠️ Stack
-**Languages:** C#, C, PowerShell, JavaScript, TypeScript, Python
-**Frameworks:** .NET Core, ASP.NET, Entity Framework, Blazor, React, NextJS
-**Tools:** Docker, Azure, GitHub Actions, PostgreSQL, MS SQL 
-**Practices:** Clean Architecture, CI/CD, Microservices
+- **Languages:** C#, C, PowerShell, JavaScript, TypeScript, Python
+- **Frameworks:** .NET Core, ASP.NET, Entity Framework, Blazor, React, NextJS
+- **Tools:** Docker, Azure, GitHub Actions, PostgreSQL, MS SQL 
+- **Practices:** Clean Architecture, CI/CD, Microservices
 
 ---
 
