@@ -27,7 +27,7 @@ Also feel free to check out my blog @ https://felixdotnet.github.io/
 ---
 
 ### 📈 GitHub Stats
-![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixdotnet&show_icons=true&theme=default)
+![Felix's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=felixdotnet&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)
 
 ---
 
