@@ -1,6 +1,6 @@
 # Hi, I'm Johannes 👋
 
-I'm a **.NET Software Engineer** from **Vienna, Austria**.  
+I'm a **.NET Software Developer** from **Vienna, Austria**.  
 I build backend systems and web applications using **C#**, **ASP.NET Core**, and **Blazor**, with a focus on clean architecture and maintainable design.
 
 I currently work on **freelance development projects** for small businesses and startups across Europe. I'm mostly building internal tools, APIs, and automation systems for Austrian and European clients.  
